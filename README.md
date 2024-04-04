@@ -6,7 +6,7 @@ Neural network reconstruction of density and velocity fields from the 2MASS Reds
 
 This repository provides the 3D matter density and peculiar velocity fields reconstructed from 2MRS using a neural network, described in
 
-> Robert Lilow, Punyakoti Ganeschaiah Veena & Adi Nusser, [arXiv:2404.?????](https://arxiv.org/abs/2404.?????).
+> Robert Lilow, Punyakoti Ganeschaiah Veena & Adi Nusser, [arXiv:2404.02278](https://arxiv.org/abs/2404.02278).
 
 ## Data
 
