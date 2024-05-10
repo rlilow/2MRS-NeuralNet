@@ -10,7 +10,7 @@ This repository provides the 3D matter density and peculiar velocity fields reco
 
 ## Data
 
-The reconstructed matter density, $`1+\delta`$, and peculiar velocity components relative to the CMB, $`v_x, v_y, v_z`$, smoothed with a Gaussian window of width $`3 \; h^{-1} \, \mathrm{Mpc}`$, as well as their estimated errors, are available for download from this [Dropbox folder](https://www.dropbox.com/scl/fo/wb8iyg113hyin4ni7srkg/h?rlkey=5k0vcyhgi9vbtrkpwl206d6u6&dl=0).
+The reconstructed matter density, $`1+\delta`$, and peculiar velocity components relative to the CMB, $`v_x, v_y, v_z`$, smoothed with a Gaussian window of width $`3 \; h^{-1} \, \mathrm{Mpc}`$, as well as their estimated errors, are available for download from this [Dropbox folder](https://www.dropbox.com/scl/fo/wb8iyg113hyin4ni7srkg/h?rlkey=bfry3x0s612qtnmgb6n82rnny&dl=0).
 
 They can be loaded in Python via
 
